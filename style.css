@@ -1,0 +1,62 @@
+*{
+  padding: 0;
+  margin: 0;
+  
+}
+body{
+  height:1500px;
+  background-image: url("/storage/emulated/0/independence/pngtree-happy-independence-day-india-s-77th-2024-vector-png-image_14291952.png");
+  background-position: center;
+  background-repeat:x-repeat;
+  background-size: cover;
+  
+}
+.navbar{
+  background-color: #f9723e;
+  height:70px;
+  font-size:20px;
+  padding-top:10px;
+  margin-top:0px;
+  border-radius: 30px;
+  
+}
+.navbar h1{
+  display:inline;
+  margin-right:50px;
+  color:#00ff00;
+}
+.navbar a{
+  margin-left:40px;
+  text-decoration: none;
+  font-size:20px;
+  color:#ffff00;
+  padding:10px;
+  margin-top:10px;
+}
+.navbar a:hover{
+  color:black;
+  background-color: red;
+}
+.heading{
+  text-align: center;
+  margin-top: 60px;
+  font-size:30px;
+  color:#000000;
+  text-decoration: underline;
+  font-style: italic;
+}
+.text{
+  border:1px solid black;
+  margin-top:0px;
+  background-color: #ffffff;
+  opacity: 0.8;
+  margin-top:140px;
+}
+
+.text p{
+  font-size:30px;
+  margin:5%;
+  font-weight:bold;
+  text-align:center;
+  color:#000000;
+}
